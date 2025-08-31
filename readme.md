@@ -36,14 +36,4 @@ The model was trained using the **Random Forest classifier** with the **liver da
 
 ```
 
-## 📊 Results
-
-The model achieves the following evaluation metrics on the test set:
-
-* **Accuracy**: 91.23%
-* **Precision**: 89.01%
-* **Recall**: 92.45%
-* **F1-Score**: 90.78%
-
-```
 
